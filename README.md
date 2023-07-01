@@ -17,7 +17,7 @@
 **PERCHE CREARE UN PROFILO FAKE NELLE INDAGINI OSINT?**
 ```
 É importante per preservare l'ambiente di lavoro e non lasciare o 
-limitare il lascito di tracce personali sul web.
+limitare il lascito di tracce personali sul web. Utile per limitare gli avvocati
 ```
 **Che tipo di OSINT Vuoi fare?**
 ```
